@@ -1,10 +1,10 @@
-import React, { Component } from "react";
-import Slide from "react-reveal";
+import React, { Component } from 'react';
+import Slide from 'react-reveal';
 
 class Resume extends Component {
   getRandomColor() {
-    let letters = "0123456789ABCDEF";
-    let color = "#";
+    let letters = '0123456789ABCDEF';
+    let color = '#';
     for (let i = 0; i < 6; i++) {
       color += letters[Math.floor(Math.random() * 16)];
     }
@@ -43,7 +43,7 @@ class Resume extends Component {
 
     const skills = this.props.data.skills.map((skills) => {
       const backgroundColor = this.getRandomColor();
-      const className = "bar-expand " + skills.name.toLowerCase();
+      const className = 'bar-expand ' + skills.name.toLowerCase();
       const width = skills.level;
 
       return (
@@ -93,7 +93,7 @@ class Resume extends Component {
             </div>
 
             <div className="nine columns main-col">
-              <p>{skillmessage}</p>
+              <h2>{skillmessage}</h2>
 
               <div className="bars">
                 <ul className="skills">{skills}</ul>

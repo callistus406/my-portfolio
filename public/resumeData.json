@@ -1,19 +1,19 @@
 {
   "main": {
     "name":"UKAOBASI CALLISTUS",
-    "description":"I'm a software engineer. I'm a pro at building fantastic desktop and web applications, as well as everything in between.",
+    "description":"Software Engineer + Data Analyst",
     "image":"profilepic.jpg",
     "bio":"A highly experienced Software engineer , Leader,  with over 4 years of developing and managing web projects from inception to delivery. An acute understanding of the development process and methodologies to improve productivity and efficiencies within a cross-functional environment. Proven track record of launching successful web projects with a 'Customer First' mindset.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "callistus406@gmail.com",
+    "phone": "+234 813-712-7355",
     "github":"https://github.com/callistus406",
-    "project":"https://github.com/callistus406/whatsapp-clone",
+    "project":"https://github.com/callistus406?tab=repositories",
     "address":{
       "street":"(Your Street)",
       "city":"Duste",
       "state":"Abuja",
-      "zip": "(Your Zip/Postal Code)"
+      "zip": "( Zip/Postal Code)"
     },
     "website": "#",
     "resumedownload":"http://github.com/callistus406",
@@ -25,7 +25,7 @@
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com",
         "className":"fa fa-twitter"
       },
       {
@@ -35,7 +35,7 @@
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/callistus406",
+        "url":"https://instagram.com/callistus406",
         "className":"fa fa-instagram"
       },
       {
@@ -46,48 +46,37 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"SKILLS & EXPERTISE",
     "education":[
       {
-        "school":"Abia StatenUniversity",
+        "school":"Abia State University",
         "degree":"B.Sc. in Computer Science",
         "graduated":"September 2019",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"Studied the design, development, and analysis of software and hardware used to solve problems in a wide range of business, scientific, and social contexts."
       },
       {
         "school":"Aptech Computer College",
-        "degree":"Diploma",
+        "degree":"Diploma in JAVA Programing",
         "graduated":"March 2017",
-        "description":"Java SE " 
-      },
-      {
-        "school":"Capacity Bay Inc",
-        "degree":"Diploma",
-        "graduated":"March 2019",
-        "description":"Linux Administration Elasticsearch " 
-      }
-    ],
+        "description":"Highly experienced in designing, developing, and managing Java-based desktop applications."
+      }    ],
     "work":[
       {
         "company":"Aptech Inc",
         "title":"Frontend Web developer(Inter) ",
         "years":"February 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"i assisted the web development team with all aspects of website and application development. i was responsible for  collecting and documenting  user requirements and i also  assisted  in troubleshooting and debugging software applications."
       },
       {
         "company":"Capacity By Inc",
         "title":"Fullstack Web Developer (Remote)",
         "years":"March 2020 - present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"I Employed the mastery of front-end languages and libraries  in collaboration with in-house web designers  to create user oriented visuals and features. Applied version control software (git) to track ,and optimize pre-existing source code. Analyzed and resolved technical and application problems. Adhered to high quality development principles while delivering.Assisted in building secured REST apis."
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"Javascript",
+        "name":"Javascript ES6+",
         "level":"90%"
       },
       {
@@ -95,23 +84,27 @@
         "level":"100%"
       },
       {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
         "name":"FrontEnd Dev",
         "level":"90%"
       },
       {
-        "name":"Node/Express",
-        "level":"90%"
+        "name":"Backend Dev",
+        "level":"70%"
       },
       {
-        "name":"Mongodb",
-        "level":"80%"
+        "name":"MERN Stack",
+        "level":"90%"
       },
       {
         "name":"JAVA SE/JavaFx",
         "level":"50%"
       },
       {
-        "name":"React-Redux",
+        "name":"Redux",
         "level":"80%"
       },
       {
@@ -123,12 +116,16 @@
         "level":"50%"
       },
       {
-        "name":"REST",
+        "name":"REST API",
         "level":"95%"
       },
       {
         "name":"Postgres/Mysql",
         "level":"70%"
+      },
+      {
+        "name":"Elastic Stack",
+        "level":"60%"
       }
       
     ]
@@ -205,7 +202,7 @@
         "title":"Canadian Wanderlust",
         "category":"My Travel Blog for my post-university travels",
         "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://www.canadianwStyleshoutanderlust.com"
       }
     ]
   }
